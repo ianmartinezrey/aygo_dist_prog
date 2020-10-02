@@ -2,10 +2,13 @@
 Taller de Introducción a Virtualización y Prog. distribuida
 
 Requisitos 
+
 Tener instalado docker en la computadora
 
 Procedimiento
+
 1. Contenedores con la aplicacion java y base de datos
+
    a. Desde un terminal ubicarse en la carpeta "aygo", ejecutar el comando: 
       docker-compose up -d 
       
@@ -21,6 +24,7 @@ Procedimiento
 3. Con el siguiente "docker ps" se visualizan todos los contenedores creados.
 
 4. Abrir la aplicacion desde un navegador y ejecutar los servicios creados:
+
   a. Mostrar los ultimos 10 registros almacenados
      GET
      http://localhost:8080
