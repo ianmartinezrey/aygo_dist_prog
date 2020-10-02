@@ -1,4 +1,4 @@
-# aygo_dist_prog
+# Docker: App SparkJava + MongoDB;
 Taller de Introducción a Virtualización y Prog. distribuida
 
 Requisitos 
